@@ -4,7 +4,7 @@
   <section class="section">
     <div class="container">
       <h1>Contact Us</h1>
-      <p class="lead">Questions about orders? Send us a note. (Form is disabled for Phase 1.)</p>
+      <p class="lead">Do you have any questions about orders? Kindly send us a note.</p>
 
       <form action="#" method="post">
         <label>Name

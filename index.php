@@ -3,7 +3,7 @@
 <main>
   <section class="section hero">
     <div class="container">
-      <h1>Fresh Cookies, Fast Delivery</h1>
+      <h1>Fresh Cookies, Easy and Fast Delivery</h1>
       <p class="lead">Hand-baked goodness delivered to your door. Browse our best-sellers or learn more about our story.</p>
       <div class="hero-actions">
         <a class="cta" href="shop.php">Shop Now</a>
@@ -27,14 +27,14 @@
         <article class="card">
           <div class="ph-img" aria-hidden="true"></div>
           <h3>Double Fudge</h3>
-          <p class="price">$5.49 / pack</p>
+          <p class="price">$6.49 / pack</p>
           <button class="btn-add" disabled>Add to Cart (placeholder)</button>
         </article>
 
         <article class="card">
           <div class="ph-img" aria-hidden="true"></div>
-          <h3>Oatmeal Raisin</h3>
-          <p class="price">$4.49 / pack</p>
+          <h3>Oreo</h3>
+          <p class="price">$3.49 / pack</p>
           <button class="btn-add" disabled>Add to Cart (placeholder)</button>
         </article>
       </div>

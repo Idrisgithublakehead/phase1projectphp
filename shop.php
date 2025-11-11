@@ -4,7 +4,7 @@
   <section class="section">
     <div class="container">
       <h1>Shop</h1>
-      <p class="lead">Static placeholders for now; database hookup comes later.</p>
+      <p class="lead">Static placeholders for now.</p>
 
       <div class="grid">
         <article class="card">
