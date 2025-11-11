@@ -1,23 +1,44 @@
 <?php include 'includes/header.php'; ?>
 
 <main>
-  <section>
-    <h1>Hello! Welcome to Sweet Cookies!</h1>
-    <p>Your one-stop online candy and dessert shop. View our tasty collection and order your favorite cookies online!</p>
+  <section class="section hero">
+    <div class="container">
+      <h1>Fresh Cookies, Fast Delivery</h1>
+      <p class="lead">Hand-baked goodness delivered to your door. Browse our best-sellers or learn more about our story.</p>
+      <div class="hero-actions">
+        <a class="cta" href="shop.php">Shop Now</a>
+        <a class="link" href="about.php">About Us</a>
+      </div>
+    </div>
   </section>
 
-  <section>
-    <h2>Our best Cookie options</h2>
-    <ul>
-      <li>Oreo</li>
-      <li>Red Velvet</li>
-      <li>Mint Chip</li>
-      <li>Chocolate chip</li>
-    </ul>
-  </section>
+  <section class="section">
+    <div class="container">
+      <h2>Popular Picks</h2>
+      <div class="grid">
+        <article class="card">
+          <div class="ph-img" aria-hidden="true"></div>
+          <span class="badge">Best Seller</span>
+          <h3>Chocolate Chip</h3>
+          <p class="price">$4.99 / pack</p>
+          <button class="btn-add" disabled>Add to Cart (placeholder)</button>
+        </article>
 
-  <section>
-    <p>We deliver fresh, tasty sweets straight to your door. log in now with your email or phone numbert start ordering!</p>
+        <article class="card">
+          <div class="ph-img" aria-hidden="true"></div>
+          <h3>Double Fudge</h3>
+          <p class="price">$5.49 / pack</p>
+          <button class="btn-add" disabled>Add to Cart (placeholder)</button>
+        </article>
+
+        <article class="card">
+          <div class="ph-img" aria-hidden="true"></div>
+          <h3>Oatmeal Raisin</h3>
+          <p class="price">$4.49 / pack</p>
+          <button class="btn-add" disabled>Add to Cart (placeholder)</button>
+        </article>
+      </div>
+    </div>
   </section>
 </main>
 

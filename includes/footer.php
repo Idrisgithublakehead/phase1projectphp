@@ -1,5 +1,7 @@
   <footer>
-    <p>&copy; <?php echo date('Y'); ?> Cookie Treats Online Shop — All rights reserved. 2025, Idris Zahir</p>
+    <div class="container">
+      <p>&copy; <?php echo date('Y'); ?> Cookies Shop Online — All rights reserved.</p>
+    </div>
   </footer>
 </body>
 </html>
